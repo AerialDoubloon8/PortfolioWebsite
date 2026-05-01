@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #eee;
+  line-height: 1.6;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background: #222;
+}
+
+.hero.small {
+  padding: 40px 20px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 2.5rem;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  opacity: 0.8;
+}
+
+section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.about, .portfolio, .contact {
+  margin-bottom: 60px;
+}
+
+.audio-item {
+  margin-bottom: 40px;
+}
+
+.description {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #222;
+}
+
+footer a, .back {
+  color: #4da3ff;
+  text-decoration: none;
+}
+
+footer a:hover, .back:hover {
+  text-decoration: underline;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
