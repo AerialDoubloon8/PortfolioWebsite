@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: "Mulish", Arial, sans-serif;
   background: #111;
   color: #eee;
   line-height: 1.6;
@@ -63,4 +63,12 @@ footer a:hover, .back:hover {
 
 ul li {
   margin-bottom: 10px;
+}
+
+@font-face {
+  font-family: "Mulish";
+  src: url(Mulish.ttf);
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
