@@ -82,7 +82,7 @@ section {
 footer {
   text-align: center;
   padding: 20px;
-  background: #222;
+  background: #def0d4;
 }
 
 footer a, .back {
@@ -96,6 +96,11 @@ footer a:hover, .back:hover {
 
 ul li {
   margin-bottom: 10px;
+}
+
+.contact
+{
+  color: black;
 }
 
 @font-face {
